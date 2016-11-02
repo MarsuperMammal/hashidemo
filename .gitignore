@@ -1,0 +1,5 @@
+terraform/implementation/acct/.terraform
+terraform/implementation/network/.terraform
+terraform/implementation/foundation/.terraform
+terraform/implementation/app/.terraform
+setup/secrets/*
